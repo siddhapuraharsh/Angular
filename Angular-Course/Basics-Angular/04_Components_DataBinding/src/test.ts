@@ -1,5 +1,5 @@
 // This file is required by karma.conf.js and loads recursively all the .spec and framework files
-
+//dist/04-components-data-binding
 import 'zone.js/testing';
 import { getTestBed } from '@angular/core/testing';
 import {
