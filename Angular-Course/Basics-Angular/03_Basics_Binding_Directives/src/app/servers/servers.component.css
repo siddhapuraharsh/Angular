@@ -1,0 +1,10 @@
+.white-text{
+  color: rgb(246, 246, 246);
+}
+
+button{
+  background-color : rgb(54, 4, 100);
+  color: white;
+  padding: 0.5%;
+}
+
